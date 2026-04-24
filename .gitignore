@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python build artifacts (not used by the live site, but kept local)
+__pycache__/
+*.pyc
